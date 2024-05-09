@@ -6,5 +6,10 @@ let js ="amazing";
 
   }
 
+  let myFirstJob = "Programer";
+
+  alert(myFirstJob);
+  console.log(myFirstJob);
+
   40 + 8 + 32 -10;
   console.log(40 + 8 + 32 -10);
